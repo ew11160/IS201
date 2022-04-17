@@ -1,0 +1,20 @@
+.pic{
+    margin:auto;
+}
+
+.subtext {
+    font-style: italic;
+}
+
+.subcolor {
+    color: #777777;
+}
+
+.contact {
+    font-size: 16px;
+    color: rgb(57, 79, 108);
+}
+
+.underline {
+    text-decoration: underline;
+}
